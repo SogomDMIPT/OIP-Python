@@ -1,0 +1,2 @@
+period 0.00929 sec
+quant step: 0.01289 V
