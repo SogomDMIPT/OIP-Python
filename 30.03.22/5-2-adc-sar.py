@@ -15,6 +15,7 @@ def main():
     GPIO.setup(dac, GPIO.OUT, initial = GPIO.LOW)
     GPIO.setup(troyka, GPIO.OUT, initial = GPIO.HIGH)
     GPIO.setup(comp, GPIO.IN)
+    
 
     try:
         while True:
